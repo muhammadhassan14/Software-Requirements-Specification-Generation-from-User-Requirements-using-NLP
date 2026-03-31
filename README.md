@@ -1,0 +1,2 @@
+# Software-Requirements-Specification-Generation-from-User-Requirements-using-NLP
+This project focuses on transforming unstructured user requirements into Structured Natural Language (SNL) using Natural Language Processing (NLP) techniques. It aims to reduce ambiguity, inconsistency, and incompleteness in software requirement gathering, thereby saving time, effort, and cost during the software development lifecycle.
